@@ -5,5 +5,5 @@ Capstone Design at Kwangwoon Univ. 2022
 - [**Jaewoo Jang**](https://github.com/wodnek1996): Team leader, Motor Control
 - [**Seokwon Choi**](https://github.com/csw609): SLAM
 - **Seokjun Moon**: Detection
-- **Taegyeom Gim**: Design
+- [**Taegyeom Gim**](https://github.com/GYEOMGYEOM): Design
 
