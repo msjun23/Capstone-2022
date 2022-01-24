@@ -10,3 +10,10 @@
 # Parts
 
 # Contest Info
+- [2022 ICT 융합 프로젝트 공모전](https://allforyoung.com/posts/12990/)
+> 지원 기간: 2022년 2월 1일 ~ 2022년 3월 31일 23:59
+
+- [SRC IRC](http://www.seoultechrobot.com/index.php)
+
+
+
