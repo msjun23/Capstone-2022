@@ -13,5 +13,5 @@ Capstone Design at Kwangwoon Univ. 2022
 - [**Taegyeom Gim**](https://github.com/GYEOMGYEOM): Design
 ## SW
 - [**Seokwon Choi**](https://github.com/csw609): SLAM
-- **Seokjun Moon**: Detection
+- [**Seokjun Moon**](https://github.com/msjun23): Detection
 
