@@ -13,6 +13,8 @@
 >
 > [Tech Blog](https://developer.nvidia.com/blog/nvidia-jetson-agx-xavier-32-teraops-ai-robotics/?ncid=so-fac-mdjngxxrmllhml-69163)
 >
+> [NVIDIA Tutorial](https://developer.nvidia.com/embedded/learn/tutorials)
+>
 > ![xavier_pin](images/xavier_pin.png)
 >
 
