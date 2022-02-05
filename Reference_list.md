@@ -18,13 +18,17 @@
 > ![xavier_pin](images/xavier_pin.png)
 >
 
+- [AK80-9 Motor](https://artcopter.com/product/t-motor-ak80-9-kv100-bl-motor/803/)
+
 # Contest Info
 - [2022 ICT 융합 프로젝트 공모전](https://allforyoung.com/posts/12990/)
 > 지원 기간: 2022년 2월 1일 ~ 2022년 3월 31일 23:59
 
 - [SRC IRC](http://www.seoultechrobot.com/index.php)
 
+- 한이음
 
+- 지역 밀착 캡스톤
 
 
 
