@@ -9,14 +9,15 @@
 
 # Parts
 ## Jetson AGX Xavier
-> [Spec & Documentation](https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit)
->
-> [Tech Blog](https://developer.nvidia.com/blog/nvidia-jetson-agx-xavier-32-teraops-ai-robotics/?ncid=so-fac-mdjngxxrmllhml-69163)
->
-> [NVIDIA Tutorial](https://developer.nvidia.com/embedded/learn/tutorials)
->
-> ![xavier_pin](images/xavier_pin.png)
->
+[Spec & Documentation](https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit)
+
+[Tech Blog](https://developer.nvidia.com/blog/nvidia-jetson-agx-xavier-32-teraops-ai-robotics/?ncid=so-fac-mdjngxxrmllhml-69163)
+
+[NVIDIA Tutorial](https://developer.nvidia.com/embedded/learn/tutorials)
+
+![xavier_pin](images/xavier_pin.png)
+
+![xavier_power](images/xavier_power.jpg)
 
 ## Motor
 - [IG42GM 02type 24V](https://www.devicemart.co.kr/goods/view?no=1326531)
