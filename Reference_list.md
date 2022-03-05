@@ -18,7 +18,26 @@
 > ![xavier_pin](images/xavier_pin.png)
 >
 
+## Motor
+- [IG42GM 02type 24V](https://www.devicemart.co.kr/goods/view?no=1326531)
+- 감속비: 1/61
+- 18kg-cm // 110PRM // Rated current: 2100mA
 
+![motor](images/motor.jpg)
+
+## Motor Driver
+[DCMD-100-P](https://www.devicemart.co.kr/goods/view?no=1266131)
+
+![motor_driver](images/motor_driver.jpg)
+
+## Battery
+- Jetson
+> [노트북 배터리](http://item.gmarket.co.kr/Item?goodscode=1267373161)
+
+- Motor
+> 12V, 7400mA, 55C
+>
+> 12V -> 24V 승압 회로 필요
 
 # Contest Info
 ## [SRC IRC](http://www.seoultechrobot.com/index.php)
@@ -29,7 +48,7 @@
 ## [한이음 ICT멘토링](https://www.hanium.or.kr/portal/hanium/businessOverview.do)
 ![ICT](images/ICT.PNG)
 
-- 멘토: 미정
+- 멘토: 용호형
 
 
 
