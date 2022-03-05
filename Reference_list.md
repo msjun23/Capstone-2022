@@ -21,14 +21,15 @@
 - [AK80-9 Motor](https://artcopter.com/product/t-motor-ak80-9-kv100-bl-motor/803/)
 
 # Contest Info
-- [2022 ICT 융합 프로젝트 공모전](https://allforyoung.com/posts/12990/)
-> 지원 기간: 2022년 2월 1일 ~ 2022년 3월 31일 23:59
-
 - [SRC IRC](http://www.seoultechrobot.com/index.php)
 
-- 한이음
+- [KWIX](https://ei.kw.ac.kr/kwix/kwix_18.php)
+> 오정현 교수님
 
-- 지역 밀착 캡스톤
+- [한이음 ICT멘토링](https://www.hanium.or.kr/portal/hanium/businessOverview.do)
+> ![ICT](images/ICT.PNG)
+> 
+> 멘토: 미정
 
 
 
