@@ -8,7 +8,7 @@
 - [CES2022 현대차 MobeD](https://www.youtube.com/watch?v=KeVDFvYofks)
 
 # Parts
-- Jetson AGX Xavier
+## Jetson AGX Xavier
 > [Spec & Documentation](https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit)
 >
 > [Tech Blog](https://developer.nvidia.com/blog/nvidia-jetson-agx-xavier-32-teraops-ai-robotics/?ncid=so-fac-mdjngxxrmllhml-69163)
@@ -18,18 +18,18 @@
 > ![xavier_pin](images/xavier_pin.png)
 >
 
-- [AK80-9 Motor](https://artcopter.com/product/t-motor-ak80-9-kv100-bl-motor/803/)
+
 
 # Contest Info
-- [SRC IRC](http://www.seoultechrobot.com/index.php)
+## [SRC IRC](http://www.seoultechrobot.com/index.php)
 
-- [KWIX](https://ei.kw.ac.kr/kwix/kwix_18.php)
-> 오정현 교수님
+## [KWIX](https://ei.kw.ac.kr/kwix/kwix_18.php)
+- 오정현 교수님
 
-- [한이음 ICT멘토링](https://www.hanium.or.kr/portal/hanium/businessOverview.do)
-> ![ICT](images/ICT.PNG)
-> 
-> 멘토: 미정
+## [한이음 ICT멘토링](https://www.hanium.or.kr/portal/hanium/businessOverview.do)
+![ICT](images/ICT.PNG)
+
+- 멘토: 미정
 
 
 
