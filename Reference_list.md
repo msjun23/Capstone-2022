@@ -1,4 +1,7 @@
 # Paper
+- [A Comparison of Path Planning Algorithms for Robotic Vacuum Cleaners](https://kth.diva-portal.org/smash/get/diva2:1214422/FULLTEXT01.pdf)
+- [Path planning algorithm development for autonomous vacuum cleaner robots](https://www.researchgate.net/publication/269297110_Path_planning_algorithm_development_for_autonomous_vacuum_cleaner_robots)
+- [Experience based Domestic Environment and User Adaptive Cleaning Algorithm of a Robot Cleaner](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7057525)
 
 # Video link
 - [협업을 위한 모바일 로봇](https://www.youtube.com/watch?v=IeyBXzikhD0)
@@ -6,6 +9,8 @@
 - [메카넘 휠 구동 영상](https://www.youtube.com/watch?v=_tmiu1wpp_E)
 
 - [CES2022 현대차 MobeD](https://www.youtube.com/watch?v=KeVDFvYofks)
+
+- [로봇 청소기 예제: 양정연 교수님 SLAM 수업](https://www.youtube.com/watch?v=VXVn75VXRMM&list=PL3Ax8f2laJ6vU449FdgWlVl2VtizhDIfj&index=13)
 
 # Parts
 ## Jetson AGX Xavier
