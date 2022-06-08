@@ -25,3 +25,4 @@ Universal Mobile Robot Project
 - [ROS & YOLOv5](https://github.com/msjun23/yolov5_ros)
 - [Get door info & pose using camera and LiDAR](https://github.com/csw609/door_angle)
 - [Wall following algorithm](https://github.com/msjun23/wall_following)
+- [Modules](https://github.com/msjun23/umbot-modules)
