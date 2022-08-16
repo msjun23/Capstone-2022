@@ -26,3 +26,8 @@ Universal Mobile Robot Project
 ## SW
 - [**Seokwon Choi**](https://github.com/csw609): SLAM
 - [**Seokjun Moon**](https://github.com/msjun23): Detection
+
+---
+
+# Paper
+**장재우, 최석원, 문석준, 김태겸, 오정현, "모듈 장착형 다용도 로봇 플랫폼", ICROS2022, Geoje, Korea (Jun.2022) - Poster**
