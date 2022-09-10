@@ -14,7 +14,7 @@ Universal Mobile Robot Project
 - [Modules](https://github.com/msjun23/umbot-modules)
 
 # Adviser
-[**Junghyun Oh**](http://robotailab.net/people/junghyunoh.html), P.
+[**Junghyun Oh**](http://robotailab.net/people/junghyunoh.html), Prof.
 > [RAIL(Robotics & A.I. Lab.)](http://robotailab.net/index.html)
 >
 > Assistant Professor, School of Robotics, Kwangwoon University
